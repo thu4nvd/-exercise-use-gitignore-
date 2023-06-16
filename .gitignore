@@ -1,6 +1,6 @@
 z*
 .env
-artifacts
+/artifacts/
 #    Ignores all files starting with the letter z.
 #    Ignores a file called .env.
 #    Ignores a top-level directory named artifacts.
